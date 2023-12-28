@@ -37,7 +37,7 @@ Here are some projects I've been working on:
 <!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.your-portfolio.com) -->
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-shirodkar)](https://github.com/gautam-shirodkar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-shirodkar&hide=html,css)](https://github.com/gautam-shirodkar/github-readme-stats)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true)
 
 ## Let's Collaborate!
