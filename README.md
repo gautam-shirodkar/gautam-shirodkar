@@ -29,9 +29,6 @@ Here are some projects I've been working on:
 -->
 ## Connect with Me
 
-- 📧 Email: gautamshirodkar.dev@gmail.com
-
-
 [![GitHub](https://img.shields.io/badge/github/gautam-shirodkar?label=Github&style=for-the-badge&logo=github)](https://github.com/gautam-shirodkar)
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-shirodkar)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/5315670?label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/5315670/gautam)
@@ -40,12 +37,15 @@ Here are some projects I've been working on:
 <!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.your-portfolio.com) -->
 
 ## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true&theme=radical)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true)
 
 ## Let's Collaborate!
 
 I'm always open to collaboration and new opportunities. Feel free to reach out! 🤝
+
+- 📧 Email: gautamshirodkar.dev@gmail.com
 
 <!--
 **gautam-shirodkar/gautam-shirodkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
