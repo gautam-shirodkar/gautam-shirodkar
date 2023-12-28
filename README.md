@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Gautam Shirodkar
+### Hey there! 👋, I'm Gautam Shirodkar
 
-I'm a passionate software developer based in Goa India. 👨‍💻
+I'm an enthusiastic software developer hailing from the beautiful coastal state of Goa, India. 👨‍💻
 
 ## About Me
 
@@ -36,7 +36,7 @@ Here are some projects I've been working on:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true&hide=contribs,prs)
 
 ## Let's Collaborate!
 
