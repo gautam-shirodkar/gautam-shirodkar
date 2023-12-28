@@ -2,7 +2,7 @@
 
 I'm an enthusiastic software developer hailing from the beautiful coastal state of Goa, India. 👨‍💻
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=gautam-shirodkar&color=blueviolet&style=for-the-badge&label=My+Profile+hits)
 
 ## About Me
 
@@ -13,10 +13,7 @@ I'm an enthusiastic software developer hailing from the beautiful coastal state 
 
 ## Skills
 
-- **Languages:** JavaScript (ES6+), Typescript,
-- **Frameworks/Libraries:** React, Angular, Next, Nest
-- **Database:** MongoDB, MySql
-- **Tools:** Git, VSCode
+
 
 - 🔭 I’m currently working on my personal portfolio website and am excited to make it live soon.
 - 🌱 I’m currently upgrading my skills in javascript-related frameworks and exploring other programming languages.
