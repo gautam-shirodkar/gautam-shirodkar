@@ -2,6 +2,8 @@
 
 I'm an enthusiastic software developer hailing from the beautiful coastal state of Goa, India. 👨‍💻
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ## About Me
 
 - 🚀 JavaScript Enthusiast
@@ -36,7 +38,7 @@ Here are some projects I've been working on:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true)
 
 ## Let's Collaborate!
 
