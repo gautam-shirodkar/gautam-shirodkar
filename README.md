@@ -2,7 +2,6 @@
 
 I'm an enthusiastic software developer hailing from the beautiful coastal state of Goa, India. 👨‍💻
 
-![](https://komarev.com/ghpvc/?username=gautam-shirodkar&color=blueviolet&style=for-the-badge&label=My+Profile+hits)
 
 ## About Me
 
@@ -37,8 +36,14 @@ Here are some projects I've been working on:
 <!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.your-portfolio.com) -->
 
 ## GitHub Stats
+![](https://komarev.com/ghpvc/?username=gautam-shirodkar&color=blueviolet&style=for-the-badge&label=My+Profile+hits)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-shirodkar&hide=html,css)](https://github.com/gautam-shirodkar/github-readme-stats)
+
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautam-shirodkar&show_icons=true)
+
 
 ## Let's Collaborate!
 
