@@ -30,8 +30,12 @@ Here are some projects I've been working on:
 ## Connect with Me
 
 - 📧 Email: gautamshirodkar.dev@gmail.com
+
+
+[![GitHub](https://img.shields.io/github/followers/gautam-shirodkar?label=Follow&style=social)](https://github.com/gautam-shirodkar)
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-shirodkar)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/5315670?label=Stack%20Overflow&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/5315670/gautam)
+
 
 <!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.your-portfolio.com) -->
 
