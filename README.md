@@ -30,7 +30,8 @@ Here are some projects I've been working on:
 ## Connect with Me
 
 - 📧 Email: gautamshirodkar.dev@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gautam-shirodkar)
+- 💼 LinkedIn: [Gautam Shirodkar](https://www.linkedin.com/in/gautam-shirodkar)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-shirodkar)
 <!-- - 🌐 Portfolio: [Your Portfolio Website](https://www.your-portfolio.com) -->
 
 ## GitHub Stats
